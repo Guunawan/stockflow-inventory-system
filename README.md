@@ -18,6 +18,14 @@ This application helps manage products, categories, stock movement, and inventor
 
 ⸻
 
+# Live Preview
+
+Project walkthrough and feature demonstration:
+
+https://youtu.be/g1ZKtKG0LsI?si=GmdtLBfJg6HqEaCv
+
+⸻
+
 # Main Features
 
 * Dashboard overview
