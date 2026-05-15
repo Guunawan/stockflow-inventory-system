@@ -35,21 +35,21 @@ This application helps manage products, categories, stock movement, and inventor
 
 # Screenshots
 
-Dashboard
+## Dashboard
 
 <img src="assets/dashboard-1.jpg" width="100%" />
 <img src="assets/dashboard-2.jpg" width="100%" />
 
 ⸻
 
-Responsive Layout
+## Responsive Layout
 
 <img src="assets/dashboard-responsive.jpg" width="100%" />
 <img src="assets/dashboard-responsive-open-sidebar.jpg" width="100%" />
 
 ⸻
 
-Products
+## Products
 
 <img src="assets/products.jpg" width="100%" />
 <img src="assets/product-create-form.jpg" width="100%" />
@@ -58,20 +58,20 @@ Products
 
 ⸻
 
-Categories
+## Categories
 
 <img src="assets/categories.jpg" width="100%" />
 
 ⸻
 
-Transactions
+## Transactions
 
 <img src="assets/transactions.jpg" width="100%" />
 <img src="assets/transactions-pagination.jpg" width="100%" />
 
 ⸻
 
-Technology Stack
+# Technology Stack
 
 * Laravel 12
 * Bootstrap 5
@@ -80,7 +80,7 @@ Technology Stack
 
 ⸻
 
-Included in Package
+# Included in Package
 
 * Full source code
 * Database migrations
@@ -89,21 +89,21 @@ Included in Package
 
 ⸻
 
-Demo Accounts
+# Demo Accounts
 
-Verified Account
+## Verified Account
 
 Email: admin@example.com
 Password: password
 
-Unverified Account
+## Unverified Account
 
 Email: demo@example.com
 Password: password
 
 ⸻
 
-Requirements
+# Requirements
 
 * PHP >= 8.2
 * Composer >= 2.x
@@ -111,7 +111,7 @@ Requirements
 * MariaDB >= 10.4
 * Apache >= 2.4 or Nginx
 
-Tested On
+## Tested On
 
 * PHP 8.2.12
 * Composer 2.9.3
@@ -120,7 +120,7 @@ Tested On
 
 ⸻
 
-Installation Guide
+# Installation Guide
 
 1. Extract the downloaded ZIP file
 
@@ -176,7 +176,7 @@ http://127.0.0.1:8000
 
 ⸻
 
-Notes
+# Notes
 
 This item is built with Laravel 12 and Sneat Admin Dashboard template.
 
@@ -192,6 +192,6 @@ All required assets are included except the vendor directory.
 
 ⸻
 
-Tags
+# Tags
 
 inventory management, laravel, stock management, admin dashboard, bootstrap, sneat, inventory system, product management, warehouse management, responsive dashboard, stock tracking, crud application, laravel 12, bootstrap 5, inventory tracker
