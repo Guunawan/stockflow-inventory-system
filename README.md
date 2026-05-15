@@ -10,7 +10,7 @@ Clean and modern inventory management system built with Laravel and Sneat Admin 
 
 ⸻
 
-Overview
+# Overview
 
 StockFlow is a modern inventory management system built with Laravel and the Sneat Admin Dashboard template.
 
@@ -18,7 +18,7 @@ This application helps manage products, categories, stock movement, and inventor
 
 ⸻
 
-Main Features
+# Main Features
 
 * Dashboard overview
 * Product management
@@ -33,7 +33,7 @@ Main Features
 
 ⸻
 
-Screenshots
+# Screenshots
 
 Dashboard
 
