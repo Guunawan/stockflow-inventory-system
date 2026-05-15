@@ -160,7 +160,7 @@ php artisan optimize:clear
 
 7. Run migration and seed demo data
 
-php artisan migrate –seed
+php artisan migrate --seed
 
 ⸻
 
