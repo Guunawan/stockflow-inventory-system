@@ -2,7 +2,10 @@ StockFlow v1.0 — Inventory Management System
 
 Modern Laravel Inventory Management System with clean architecture and responsive dashboard UI.
 
-Available Soon on Codester
+Available on Gumroad:
+https://guunawan.gumroad.com/l/stockflow-v1
+
+Codester release is currently under review.
 
 <img src="assets/Preview-Image.png" width="100%" />
 
