@@ -141,9 +141,9 @@ Open the project folder in terminal or command prompt.
 ⸻
 
 2. Install dependencies
-
+```bash
 composer install
-
+```
 ⸻
 
 3. Create environment file
