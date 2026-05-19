@@ -147,15 +147,15 @@ composer install
 ⸻
 
 3. Create environment file
-
+```bash
 Copy-Item .env.example .env
-
+```
 ⸻
 
 4. Generate application key
-
+```bash
 php artisan key:generate
-
+```
 ⸻
 
 5. Configure database
@@ -165,21 +165,21 @@ Update your database credentials inside the .env file.
 ⸻
 
 6. Clear cache
-
+```bash
 php artisan optimize:clear
-
+```
 ⸻
 
 7. Run migration and seed demo data
-
+```bash
 php artisan migrate --seed
-
+```
 ⸻
 
 8. Start development server
-
+```bash
 php artisan serve
-
+```
 ⸻
 
 9. Open in browser
