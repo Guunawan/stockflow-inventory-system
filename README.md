@@ -147,7 +147,7 @@ composer install
 ⸻
 
 3. Create environment file
-```bash
+```powershell
 Copy-Item .env.example .env
 ```
 ⸻
@@ -183,9 +183,9 @@ php artisan serve
 ⸻
 
 9. Open in browser
-
+```txt
 http://127.0.0.1:8000
-
+```
 ⸻
 
 # Notes
