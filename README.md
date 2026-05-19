@@ -5,7 +5,8 @@ Modern Laravel Inventory Management System with clean architecture and responsiv
 Available on Gumroad:
 https://guunawan.gumroad.com/l/stockflow-v1
 
-Codester release is currently under review.
+Available on Lynk:
+https://lynk.id/guunawan
 
 <img src="assets/Preview-Image.png" width="100%" />
 
