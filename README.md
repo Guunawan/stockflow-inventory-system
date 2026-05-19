@@ -6,9 +6,7 @@ Available on Gumroad
 https://guunawan.gumroad.com/l/stockflow-v1
 
 Available on Lynk
-
-Store: https://lynk.id/guunawan
-Product: https://lynk.id/guunawan/e51ndox3ykzg
+Store:https://lynk.id/guunawan Product:https://lynk.id/guunawan/e51ndox3ykzg
 
 <img src="assets/Preview-Image.png" width="100%" />
 
