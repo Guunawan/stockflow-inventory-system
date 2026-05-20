@@ -1,14 +1,17 @@
-StockFlow v1.0 — Inventory Management System
+# StockFlow v1.1 — Inventory Management System
 
-Modern Laravel Inventory Management System with clean architecture and responsive dashboard UI.
+Modern Laravel inventory management system built with clean architecture and responsive dashboard UI.
 
-Available on Gumroad
+## Purchase
+
+Available on Gumroad:  
 https://guunawan.gumroad.com/l/stockflow-v1
 
-Available on Lynk
+Available on Lynk:  
 https://lynk.id/guunawan/e51ndox3ykzg
 
-Store: https://lynk.id/guunawan
+More products:  
+https://lynk.id/guunawan
 
 <img src="assets/Preview-Image.png" width="100%" />
 
